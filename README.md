@@ -34,7 +34,7 @@ This project is a static clone of the basic homepage layout of Amazon.com. It's 
 
 
 
-#🌦️Weather Application
+# 🌦️Weather Application
 
 This is a web application that allows users to get real-time weather information for any city they search for. It utilizes an external weather API to fetch and display current weather conditions.
 
