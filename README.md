@@ -1,6 +1,6 @@
 # FRONTEND-PROJECTS ✨
 
-## 🏠 Basic Amazon Homepage Clone (HTML & CSS)
+# 🏠 Basic Amazon Homepage Clone (HTML & CSS)
 
 This project is a static clone of the basic homepage layout of Amazon.com. It's built using only HTML for the page structure and CSS for styling, aiming to replicate the visual appearance of key elements.
 
@@ -33,8 +33,8 @@ This project is a static clone of the basic homepage layout of Amazon.com. It's 
 
 
 
-
-## 🌦️Weather Application
+<BR>
+# 🌦️Weather Application
 
 This is a web application that allows users to get real-time weather information for any city they search for. It utilizes an external weather API to fetch and display current weather conditions.
 
