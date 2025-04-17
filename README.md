@@ -1,6 +1,6 @@
-# FRONTEND-PROJECTS
+# FRONTEND-PROJECTS ✨
 
-## Basic Amazon Homepage Clone (HTML & CSS)
+## 🏠 Basic Amazon Homepage Clone (HTML & CSS)
 
 This project is a static clone of the basic homepage layout of Amazon.com. It's built using only HTML for the page structure and CSS for styling, aiming to replicate the visual appearance of key elements.
 
