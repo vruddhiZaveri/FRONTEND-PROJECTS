@@ -69,7 +69,7 @@ This application integrates with a weather data API (e.g., OpenWeatherMap). You 
 * Improving the visual design and user experience.
 
 #
-#🎯 My Awesome To-Do List App
+# 🎯 My Awesome To-Do List App
 
 ## Overview
 
